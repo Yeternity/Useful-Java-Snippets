@@ -12,6 +12,13 @@
  * https://www.cnblogs.com/aigeileshei/p/6049458.html
  * https://blog.csdn.net/xct841990555/article/details/90486007
  * 
+ * 运行环境：
+ *   Eclipse IDE for RCP and RAP Developers
+ *   Version: 2019-12 (4.14.0)
+ *   Build id: 20191212-1212
+ *   OS: Windows 10, v.10.0, x86_64 / win32
+ *   Java version: 1.8.0_241
+ * 
  * 作者：Yeternity
  * 时间：2020/02/06
  * 文件编码格式：UTF-8
