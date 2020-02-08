@@ -163,6 +163,7 @@ public class FileCharsetConversion {
         isr.close();
         fis.close();
     }
+    
     /**
      * 打印出所有{@link java.nio.charset.Charset charset}支持的字符集
      * 
